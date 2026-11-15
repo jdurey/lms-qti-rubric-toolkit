@@ -1,0 +1,4 @@
+Question,Type,Points,Choice A,Choice B,Choice C,Choice D,Correct Answer,Feedback
+"Which HTTP status code indicates rate limiting?",MC,2,401 Unauthorized,403 Forbidden,429 Too Many Requests,503 Service Unavailable,C,"RFC 6585 defines 429 Too Many Requests."
+"Select all client-side storage APIs in modern browsers.",MA,3,localStorage,IndexedDB,PostgreSQL,Cache API,"A;B;D","PostgreSQL is a server database."
+"Canvas New Quizzes imports IMS QTI 2.1 packages.",TF,1,,,,,True,"New Quizzes supports IMS QTI 2.1."

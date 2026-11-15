@@ -1,0 +1,51 @@
+{
+  "name": "lms-qti-rubric-toolkit",
+  "version": "1.0.0",
+  "description": "Zero-dependency IMS QTI 1.2 & 2.1 compiler, Classic-to-New Quizzes QTI 2.1 converter, Canvas SpeedGrader rubric-to-Excel matrix builder, and 100% local FERPA gradebook roster matcher.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Still Human Academy <https://tools.stillhumanacademy.com>",
+  "homepage": "https://tools.stillhumanacademy.com/canvas-qti-rubric-converter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdurey/lms-qti-rubric-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdurey/lms-qti-rubric-toolkit/issues"
+  },
+  "bin": {
+    "lms-qti-rubric": "./bin/lms-qti-rubric.mjs"
+  },
+  "main": "./src/index.mjs",
+  "exports": {
+    ".": "./src/index.mjs"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "examples/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/cli_and_lib.test.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "canvas-lms",
+    "qti",
+    "ims-qti",
+    "qti-2.1",
+    "qti-1.2",
+    "speedgrader",
+    "rubric",
+    "instructional-design",
+    "edtech",
+    "ferpa",
+    "assessment",
+    "gradebook",
+    "roster-matcher"
+  ]
+}
