@@ -3,10 +3,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](./package.json)
 [![Node.js >= 18](https://img.shields.io/badge/node-%3E%3D18.0.0-339933.svg)](./package.json)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install_Free-0f766e.svg)](https://chromewebstore.google.com/detail/canvas-assessment-rubric/aholdfpbhfiipondaloaooenjpfeccnp)
 
 > [!TIP]
-> **Prefer a 1-click browser GUI with zero command line setup?**
-> Instructors, department chairs, and instructional designers can run all of these converters directly in the browser (100% client-side, zero student data uploaded to any server, plus **Department 10-Seat Passes** for accreditation teams) at **[tools.stillhumanacademy.com](https://tools.stillhumanacademy.com)**:
+> **Prefer a 1-click Chrome Extension or browser GUI with zero command line setup?**
+> - **Free Manifest V3 Chrome Extension (`activeTab` only, works on custom `.edu` Canvas domains):** [**Install Canvas Assessment & Rubric Matrix Exporter on Chrome Web Store**](https://chromewebstore.google.com/detail/canvas-assessment-rubric/aholdfpbhfiipondaloaooenjpfeccnp)
+> - **Browser Converters (`0` student bytes uploaded, Department 10-Seat Passes available):** **[tools.stillhumanacademy.com](https://tools.stillhumanacademy.com)**
 >
 > - **All-in-One Canvas QTI & Rubric Suite:** [tools.stillhumanacademy.com/canvas-qti-rubric-converter](https://tools.stillhumanacademy.com/canvas-qti-rubric-converter)
 > - **Canvas SpeedGrader Rubric Export to Excel (`.xls`):** [tools.stillhumanacademy.com/canvas-speedgrader-rubric-to-excel](https://tools.stillhumanacademy.com/canvas-speedgrader-rubric-to-excel)
